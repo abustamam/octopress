@@ -13,6 +13,8 @@ but it is the developer way to create themes.
 
 Here is what I've learned while trying to import a Start Bootstrap theme to Octopress. 
 
+<!-- more -->
+
 First, get to know the `rake install[optional theme name]` command. It's actually the first task in the Rakefile:
 
 
