@@ -10,6 +10,8 @@ categories: front-end, nanodegree, learning
 
 I've been plowing through [Udacity's Front-End Nanodegree program](https://www.udacity.com/course/nd001). It's a pilot program, designed to learn front-end web development from the ground up.
 
+<!-- more -->
+
 I started the day I was allowed to, which was about two weeks ago. 
 
 So far, I've completed the [Mockup to Website](/Udacity-Portfolio), and [Interactive Resume](/frontend-nanodegree-resume). 

@@ -10,6 +10,8 @@ _Day 10: Return to the blog post or article you reviewed yesterday. (See descrip
 
 _Return to the blog post or article you reviewed yesterday. Today, imitate its genre and purpose, but write about a topic or tell a story of your choosing. That is, write about what you want, but write in the language of the blog post or article you reviewed yesterday; make use of its logic and conventions and symbols; and find a way to offer a surprise!_
 
+<!-- more -->
+
 ## Important note: ##
 
 The following article is fictional. It was written for the sole purpose of imitating the writing style of [this article](https://medium.com/@andrewjiang/unintentionally-in-yc-9dd0ccbaeb44). My name is not Chelsea, I did not drop out of Yale, nor do I work for Google (yet!), nor did I ever create an app called EncouragUr (though it's on my list!).

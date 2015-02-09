@@ -10,6 +10,8 @@ __Day 14: For your prompt today, I am literally taking a page from someone else�
 
 _The following, from John Gardner’s The Art of Fiction, page 37, is one of the most famous and enduring writing prompts out there:  Describe a barn as seen by a man whose son has just been killed in a war. Do not mention the son, or war, or death. Do not mention the man who does the seeing. …The result should be a powerful and disturbing image, a faithful description of some apparently real barn but one from which the reader gets a sense of the father’s emotion; though exactly what that emotion is he may not be able to pin down. …No amount of intellectual study can determine for the writer what details to include. If the description is to be effective, he must choose his boards, straw, pigeon manure, and ropes, the rhythms of his sentences, his angle of vision, by feeling and intuition. And one of the things he will discover, inevitably, is that the images of death and loss that come to him are not necessarily those we might expect._
 
+<!-- more -->
+
 The sun is setting, the sky is darkening, and the door of the derelict barn finally comes off its hinges and lays flat on the dirt.
 
 The barn stands there, as it has for decades, but on this day, it looms over the farm like a fortress towering over its kingdom, casting a shadow that plunges even the most fertilized grass into darkness. 

@@ -10,6 +10,8 @@ categories: front-end, learning, nanodegree
 
 I'm back, and I've finally finished my game project, using HTML5 Canvas and JS. You can view the finished project [here](abustamam.github.io/frontend-nanodegree-arcade-game). 
 
+<!-- more -->
+
 The courses used were [HTML5 Canvas](https://www.udacity.com/course/viewer#!/c-ud292-nd) and [Object-oriented Javascript](https://www.udacity.com/course/viewer#!/c-ud015-nd).
 
 I learned a lot while working through this project. Not only about programming, but also about motivation and getting things done. 

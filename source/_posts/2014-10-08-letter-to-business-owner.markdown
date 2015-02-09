@@ -10,6 +10,8 @@ _Day 8: Write a thank-you letter to the owner of a business. (See description fo
 
 _Write a thank-you letter to the owner of a business who anticipated, met, and exceeded your needs. Tell your story. Describe your experience candidly, and your delight, and your surprise. After you've finished a draft of the letter, go back and make it beautiful and clear. Do your best to make your prose (its precision, its melody) really carry your gratitude, by expressing your story concretely and your feelings truly._
 
+<!-- more -->
+
 [It's been a while since I've had the pleasure of being pleasantly surprised by the quality of service of a business owner. As such, I am going to create a story of such an experience and tell it through this fictitious letter]
 
 Dear Jacques, 

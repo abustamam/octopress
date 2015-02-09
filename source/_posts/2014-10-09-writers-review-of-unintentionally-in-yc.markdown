@@ -10,6 +10,8 @@ _Day 9: Write a review—a review for writers—of your favorite recent blog pos
 
 _Write a review—a review for writers—of your favorite recent blog post or article. What ideas draw you into the article? But, more than the ideas, what writing choices did the author make that made it so good? What tools of representation—words, jokes, descriptions, metaphors, hyperbole, informal voice, call to action, etc.—did the author use that you also might use someday?_
 
+<!-- more -->
+
 [The article](https://medium.com/@andrewjiang/unintentionally-in-yc-9dd0ccbaeb44)
 
 I picked this article because I wish to start a start-up one day, and the fact that someone could "unintentionally" get into YC really piqued my interest. It's also, overall, an inspirational story with a simple call-to-action: start! 

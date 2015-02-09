@@ -10,6 +10,8 @@ _Day 12: Describe the lives of your audience by describing the lives of singular
 
 _Describe the lives of your audience by describing the lives of singular individuals. Describe concerns, desires, suffering. What do they (not they, but he, she) do, say, think, and feel? Make them (not them, but him, her) as human as possible._
 
+<!-- more -->
+
 ## Note: ##
 I took the last statement of making the character as human as possible a bit too far, and evolved from describing the life of an individual into a short story. However, by the time I realized I was off-prompt, I'd gone too far and decided to finish the story. The take-home point is that my audience is full of people like David, though perhaps not with his exact story :) 
 

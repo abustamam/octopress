@@ -8,6 +8,8 @@ categories: 500wed, musings
 
 _Day 11: After looking back and considering the blog post or article, add your own voice. Write your own response._
 
+<!-- more -->
+
 I recently read [this article](https://medium.com/@andrewjiang/unintentionally-in-yc-9dd0ccbaeb44) about a guy named Andrew who left finance with no direction, and a couple months later found himself in Y Combinator, possibly the most prestigious start-up accelerator in the US. I was really inspired by the story because as an entrepreneur, it is my dream for me to get accepted into YC or a similar accelerator. The story really solidified the fact that great things can happen if you simply __start__.
 
 When I read that Andrew had no plan when he moved to the Bay Area, it really made me wonder--is a plan really necessary to succeed in life? There's the common saying, "failing to plan is planning to fail." But how much of that is true? These days we hear a lot of stories of people who "accidentally" make it big. 
