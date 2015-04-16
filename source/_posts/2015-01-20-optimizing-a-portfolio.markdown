@@ -10,6 +10,8 @@ categories: front-end, learning, nanodegree
 
 The latest project was to optimize a portfolio. Once I get the project graded, I will update the portfolio to be my own. However, here are some take-home points I got.
 
+<!-- more -->
+
 ## The course
 
 [The course](https://www.udacity.com/course/viewer#!/c-ud884-nd) itself wasn't bad. However, it definitely wasn't interesting. 
