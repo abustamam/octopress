@@ -8,7 +8,7 @@ categories: front-end, learning, nanodegree
 
 # Six weeks later
 
-I'm back, and I've finally finished my game project, using HTML5 Canvas and JS. You can view the finished project [here](abustamam.github.io/frontend-nanodegree-arcade-game). 
+I'm back, and I've finally finished my game project, using HTML5 Canvas and JS. You can view the finished project [here](/bugger). 
 
 <!-- more -->
 

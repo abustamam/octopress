@@ -15,7 +15,7 @@ This course focuses on Javascript design patterns. It takes us through several s
 
 # Cat Clicker
 
-[Cat Clicker](http://abustamam.github.io/Cat-Clicker) was my first project. 
+[Cat Clicker](/Cat-Clicker) was my first project. 
 
 ## version 0.1
 
@@ -56,9 +56,12 @@ Bugfix: Reset button works properly
 
 Add admin panel, which allows "cheating" (aka changing number of clicks)
 
+## version 1
+
+Uses knockout.js, looks cool
+
 # School-Attendance App
 
 Original Udacity repo is [here](https://github.com/udacity/ud989-school-attendance). My repo is [here](https://github.com/abustamam/school-attendance).
 
 The goal of this app is to refactor existing code from spaghetti code into maintainable code using MVO, which was done pretty easily. The model was the list of students and the days they missed. The view was how the app looks. And the octopus was what bound everything together. 
-

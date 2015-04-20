@@ -8,7 +8,7 @@ categories: front-end, learning, nanodegree
 
 # Here's the latest
 
-The latest project was to optimize a portfolio. Once I get the project graded, I will update the portfolio to be my own. However, here are some take-home points I got.
+The latest project was to optimize a portfolio. Once I get the project graded, I will update the [portfolio](/mobile-portfolio) to be my own. However, here are some take-home points I got.
 
 <!-- more -->
 
@@ -26,7 +26,7 @@ The project was to optimize [this portfolio](github.com/udacity/frontend-nanodeg
 
 The first goal was to optimize the website such that it got a score of 90+ on [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/?url=abustamam.github.io%2Fmobile-portfolio). This was done by analyzing the CRP and performing optimizations such as inlining critical CSS and async-ing non-critical scripts. 
 
-The second goal was to optimize the [pizza page](http://abustamam.github.io/mobile-portfolio/pizza.html) such that it ran at 60 FPS. This was done by performing several JavaScript optimizations.
+The second goal was to optimize the [pizza page](mobile-portfolio/pizza.html) such that it ran at 60 FPS. This was done by performing several JavaScript optimizations.
 
 The main issue I ran into with the project was the task automaters (more on this [below](#gulp)).
 

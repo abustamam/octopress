@@ -14,7 +14,7 @@ I've been plowing through [Udacity's Front-End Nanodegree program](https://www.u
 
 I started the day I was allowed to, which was about two weeks ago. 
 
-So far, I've completed the [Mockup to Website](/Udacity-Portfolio), and [Interactive Resume](/frontend-nanodegree-resume). 
+So far, I've completed the [Mockup to Website](/rbport), and [Interactive Resume](/resume). 
 
 The courses are decent; I enjoy the byte-sized lectures interspersed with quizzes. The courses don't go too deep, but that's what the projects are for.
 
