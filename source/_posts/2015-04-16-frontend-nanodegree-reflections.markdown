@@ -58,15 +58,3 @@ The goal of making an app is to JFS (stands for Just F&$%ing Ship) so not everyt
 ## Overall review of the Nanodegree
 
 Overall, I enjoyed my experience with the Nanodegree, and I would definitely consider doing the Full Stack ND, and perhaps even Data Science. For right now, I'm going to focus on a couple of other courses that I've purchased but put off, so check back soon for those! 
-
-
-
-
-
-
-
-
-
-
-
-
