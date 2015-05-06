@@ -55,10 +55,10 @@ And then, there was me; the underdog. 24 years old, and just three years ago, I 
 
 As if to absolutely shatter every ounce of confidence I had in myself, I drew last in speaker order. I had to listen to 7, magnificently crafted and delivered, speeches; speeches that were written and rewritten, then told and retold in front of a mirror, then delivered and redelivered in front of a significant other or friend... 
 
-... speeches about finding inspiration ...
-... speeches about lessons gleaned from the life of a deceased loved one ...
-... speeches about overcoming addiction and determining to become someone new ...
-... speeches about learning deep and profound things from something as simple as art ...
+... speeches about finding inspiration ...  
+... speeches about lessons gleaned from the life of a deceased loved one ...  
+... speeches about overcoming addiction and determining to become someone new ...  
+... speeches about learning deep and profound things from something as simple as art ...  
 
 ... which all reinforced the fact that my speech was the after-product of having nothing better to think about while driving; the delivery the product of saying it out loud during the 30 minutes it took for me to get to the venue. I had never uttered a word of that speech before the day I delivered it in competition. 
 
@@ -84,15 +84,15 @@ I waited in anticipation for the results to be called. I wasn't expecting my nam
 
 But then I heard it.
 
-"Third place: Rasheed Bustamam"
+_"Third place: Rasheed Bustamam"_
 
-It was such a humbling experience. I somehow managed to beat five seasoned speakers who have been working on their public speaking skills for several years, with my Frankenstein of a speech. 
+I was shocked. I somehow managed to beat five seasoned speakers who have been working on their public speaking skills for several years, with my Frankenstein of a speech. 
 
-"Second place: Patrick Lee"
+_"Second place: Patrick Lee"_
 
 My mind was still trying to comprehend the odds of me, the underdog, placing in this competition. I was still seeing myself as I saw myself three years ago--an inexperienced, wannabe speaker. Slowly I came to the realization...
 
-"First place: David Goad"
+_"First place: David Goad"_
 
 ... that I am now a public speaker. 
 
