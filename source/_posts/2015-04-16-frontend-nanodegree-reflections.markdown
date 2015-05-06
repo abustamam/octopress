@@ -9,8 +9,11 @@ categories:
 Hello! I finally graduated from my Frontend Nanodegree program on Udacity. Here is a recap of my previous posts:
 
 [First reflection](/blog/2014/10/31/reflection-on-nanodegree-pt-1/)
+
 [Second reflection (Bugger)](/2014/12/17/re-making-the-frogger-game/)
+
 [Third reflection (Optimization project)](/2015/01/20/optimizing-a-portfolio/)
+
 [Fourth reflection (Cat Clicker)](/2015/02/08/javascript-design-patterns-reflections/)
 
 This is my final reflection. 
