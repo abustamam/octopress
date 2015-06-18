@@ -18,8 +18,10 @@ group :development do
   gem 'coffee-script'
   gem 'sass'
   gem 'less'
-  gem 'therubyracer'
+  gem 'therubyracer', '0.12.2'
+  gem 'libv8', '3.16.14.7'
   gem 'kramdown'
+  gem 'safe_yaml', '~> 1.0.4'
   gem 'coderay'
 end
 
